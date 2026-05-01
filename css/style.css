@@ -279,7 +279,7 @@ body {
       height: 0;
       top: 0;
       left: 0;
-      background-color: rgba(48, 140, 43, 0.536);
+      background-color: rgba(48, 140, 43, 0.33);
       transition: 0.3s;
       border-radius: 20px;
 }
@@ -1116,7 +1116,7 @@ body {
       height: 0;
       top: 0;
       left: 0;
-      background-color: #19753881;
+      background-color: #19753858;
       border-radius: 10px;
       z-index: -1;
       transition: 0.5s;
